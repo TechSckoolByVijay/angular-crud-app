@@ -35,3 +35,4 @@ jobs:
           output_location: "${{ env.app_location }}/dist/crud-app" # Built app content directory - optional
           ###### End of Repository/Build Configurations ######
           
+          
